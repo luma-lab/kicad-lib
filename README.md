@@ -1,3 +1,3 @@
-# phoenix-kicad-lib
+# Luma-Lab kicad-lib
 
 ## how to use this library
